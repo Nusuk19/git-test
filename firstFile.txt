@@ -4,7 +4,7 @@ line 3 - git_1 line 3
 line 4 - git_1 line 4
 line 5 - foder_2 git_1 line 5
 line 6 - folder_2 git_1 line 5
-line 7
-line 8
+line 7 - folder_1 git_1 line 7
+line 8 - folder_1 git_1 line 8
 line 9
 line 10
